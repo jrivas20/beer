@@ -370,15 +370,15 @@ header h6 {
     height: 850px;
     margin-bottom: 0;
     position: relative;
-    background-image: url("../images/99.jpg");
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
+    background-image: url("../images/km.png");
 }
 
 .jumbotron:after {
-    background-color: white;
+    background-image: url();
     background-repeat: no-repeat;
     content: " ";
     display: block;
@@ -663,15 +663,15 @@ header h6 {
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 0.5px;
-    background-color: #ffc107;
-    border-color: #ffc107;
+    background-color: #f7da17;
+    border-color: #f7da17;
     border-radius: 0;
     padding: 10px 20px;
     margin: 30px 0;
     margin-left: 20px;
     margin-right: 15px;
     text-transform: uppercase;
-    border: 2px solid #ffc107;
+    border: 2px solid #f7da17;
 }
 
 .about .btn-warning:hover {
@@ -958,7 +958,7 @@ header h6 {
     padding: 70px 0;
     color: #000000;
     position: relative;
-    background-color: #ffaf00;
+    background-color: #f7da17;
 }
 
 .subscribe:before {
