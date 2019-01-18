@@ -362,8 +362,8 @@ header h6 {
     background-color: #ffffff !important;
 }
 .log{
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 .jumbotron {
     width: 100%;
@@ -469,7 +469,7 @@ header h6 {
     left: 0;
     background: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%);
     background: -webkit-linear-gradient(-45deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%);
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%);
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
 }
 
@@ -958,11 +958,11 @@ header h6 {
     padding: 70px 0;
     color: #000000;
     position: relative;
-    background-color: #f7da17;
+    background-color: #00005b;
 }
 
 .subscribe:before {
-    background-image: url("../images/sub-border.png");
+   
     background-repeat: no-repeat;
     content: " ";
     display: block;
@@ -974,7 +974,6 @@ header h6 {
 }
 
 .subscribe:after {
-    background-image: url("../images/sub-border.png");
     background-repeat: no-repeat;
     content: " ";
     display: block;
