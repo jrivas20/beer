@@ -142,7 +142,7 @@ hr {
     z-index: 9999;
     display: block;
     position: fixed;
-    background: #f7da17;
+    background: #b49267;
     text-decoration: none;
     -moz-border-radius: 35px;
     -webkit-border-radius: 35px;
@@ -229,7 +229,7 @@ hr {
 
 header {
     color: #000000;
-    background-color: #f7da17;
+    background-color: #b49267;
     transition: all 0.5s;
     position: relative;
 }
@@ -266,7 +266,7 @@ header h6 {
 }
 
 nav {
-    background-color: #f7da17 !important;
+    background-color: #b49267 !important;
     -webkit-box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.1607843137254902);
     -moz-box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.1607843137254902);
     box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.1607843137254902);
@@ -367,14 +367,14 @@ header h6 {
 }
 .jumbotron {
     width: 100%;
-    height: 850px;
+    height: 100%;
     margin-bottom: 0;
     position: relative;
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
-    background-image: url("../images/km.png");
+    background-image: url("../images/989.png");
 }
 
 .jumbotron:after {
@@ -408,15 +408,15 @@ header h6 {
     padding: 12px 20px;
     margin-right: 20px;
     letter-spacing: -0.5px;
-    background-color: #f7da17;
-    border-color: #f7da17;
-    border: 2px solid #f7da17;
+    background-color: #b49267;
+    border-color: #b49267;
+    border: 2px solid #b49267;
     text-transform: uppercase;
 }
 
 .jumbotron .btn-default,
 .jumbotron .btn-default:not(:disabled):not(.disabled):active {
-    color: #000;
+    color: #b49267;
     font-size: 14px;
     font-weight: 700;
     border-radius: 0;
@@ -469,7 +469,7 @@ header h6 {
     left: 0;
     background: -moz-linear-gradient(-45deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%);
     background: -webkit-linear-gradient(-45deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%);
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.1) 100%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#b3000000', GradientType=1);
 }
 
@@ -488,7 +488,6 @@ header h6 {
 }
 
 .services:after {
-    background-image: url("../images/services-border.png");
     background-repeat: no-repeat;
     content: " ";
     display: block;
@@ -520,7 +519,7 @@ header h6 {
 }
 
 .services .card {
-    border-top: 15px solid #f7da17;
+    border-top: 15px solid #b49267;
     padding: 30px 30px !important;
     border-radius: 0;
     margin-bottom: 1rem;
@@ -663,7 +662,7 @@ header h6 {
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 0.5px;
-    background-color: #f7da17;
+    background-color: #b49267;
     border-color: #f7da17;
     border-radius: 0;
     padding: 10px 20px;
@@ -671,7 +670,7 @@ header h6 {
     margin-left: 20px;
     margin-right: 15px;
     text-transform: uppercase;
-    border: 2px solid #f7da17;
+    border: 2px solid #b49267;
 }
 
 .about .btn-warning:hover {
@@ -958,7 +957,7 @@ header h6 {
     padding: 70px 0;
     color: #000000;
     position: relative;
-    background-color: #00005b;
+    background-color: #b49267;
 }
 
 .subscribe:before {
